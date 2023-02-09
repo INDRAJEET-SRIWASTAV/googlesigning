@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233036780707",
+    "project_id": "signing-ae59b",
+    "storage_bucket": "signing-ae59b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233036780707:android:93e5cec01ece5071b0db16",
+        "android_client_info": {
+          "package_name": "com.example.googlesigning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233036780707-a1r3ftqi4alm6i7q6cufq0vj33lg8t4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAarjP7KGOCbjp0Hvyc_txHp7i8f_atsBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233036780707-a1r3ftqi4alm6i7q6cufq0vj33lg8t4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
